@@ -12,15 +12,6 @@ Designed and developed two database structures in SQL and NoSQL. One a structure
 
 The project involved importing and transforming JSON data, schema design, and query optimization to compare SQL vs. NoSQL efficiency. We used DBeaver for database management and PyMongo for MongoDB queries. Ultimately, this project provided hands-on experience in database setup, data manipulation, and performance analysis.
 
-### Deliverable
-
-- A relational schema for a chosen dataset
-- Two data systems of the chosen dataset
-    - Relational data system [PSQL]
-    - Non-relational data system [MongoDB]
-- Five testing queries for data system evaluations
-- Project Report
-
 ---
 
 ## Repository Structure
